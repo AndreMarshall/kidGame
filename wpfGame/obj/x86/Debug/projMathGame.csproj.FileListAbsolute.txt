@@ -1,0 +1,21 @@
+C:\Users\amars\source\repos\kidMathGame\wpfGame\bin\Debug\WPF Math Game Outline.exe
+C:\Users\amars\source\repos\kidMathGame\wpfGame\bin\Debug\WPF Math Game Outline.pdb
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\wndEnterUserData.baml
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\wndGame.baml
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\wndMathMenu.baml
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\wndEnterUserData.g.cs
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\wndGame.g.cs
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\wndMathMenu.g.cs
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\App.g.cs
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\WPF Math Game Outline_MarkupCompile.cache
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\WPF Math Game Outline.g.resources
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\WPF_Math_Game_Outline.Properties.Resources.resources
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\projMathGame.csproj.GenerateResource.cache
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\projMathGame.csproj.CoreCompileInputs.cache
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\WPF Math Game Outline.exe
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\WPF Math Game Outline.pdb
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\WPF Math Game Outline_Content.g.cs
+C:\Users\amars\source\repos\kidMathGame\wpfGame\bin\Debug\Images\woods.jpg
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\wndFinalScore.baml
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\wndFinalScore.g.cs
+C:\Users\amars\source\repos\kidMathGame\wpfGame\obj\x86\Debug\projMathGame.csproj.AssemblyReference.cache

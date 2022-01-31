@@ -1,0 +1,16 @@
+﻿<Window x:Name="wndMain" x:Class="WPF_Math_Game_Outline.wndMathMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="wndMathMenu" Height="500" Width="600" >
+    <Window.Background>
+        <ImageBrush ImageSource="Images/woods.jpg"/>
+    </Window.Background>
+    <Grid x:Name="grdMain">
+        <Label Content="The Nightmare Before Math Christmas!" Foreground="white" Height="45" HorizontalAlignment="Left" Margin="100,26,0,0" Name="label1" VerticalAlignment="Top" FontSize="20" Width="383" FontWeight="Bold" FontStyle="Italic" />
+        <Button  Height="366" Background="Transparent" BorderThickness="0" BorderBrush="Transparent" Padding="-10" HorizontalAlignment="Left" Margin="71,94,0,0" Name="cmdPlayGame" VerticalAlignment="Top" Width="164" FontSize="18" Click="cmdPlayGame_Click" Cursor="Hand">
+            <Image Source ="Images/door.jpg" Width="199" Stretch="Fill" Height="378" ></Image>
+        </Button>
+        <Button Content="Final Score" FontSize="18" Background="green" Height="45" HorizontalAlignment="Left" Margin="363,258,0,0" Name="cmdHighScores" VerticalAlignment="Top" Width="139" Click="cmdHighScores_Click" />
+        <Button Content="Enter User Data" FontSize="18" Background="Green" Height="45" HorizontalAlignment="Left" Margin="363,94,0,0" Name="cmdEnterUserData" VerticalAlignment="Top" Width="139" Click="cmdEnterUserData_Click" />
+    </Grid>
+</Window>
